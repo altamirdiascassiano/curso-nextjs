@@ -1,0 +1,13 @@
+.vermelho {
+    color: red;
+}
+
+.cinza {
+    color: gray
+}
+
+#center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
